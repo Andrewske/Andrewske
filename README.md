@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Kevin Andrews
 ---
 ## About Me
-- 👀 I’m interested in Web Developement and Data Analysis
+- 👀 I’m interested in Web Developement, Data Analysis and AI
 
 ## Projects
 - Check out my portfolio at [kevinandrews.info](https://www.kevinandrews.info)
