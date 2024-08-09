@@ -9,9 +9,6 @@
 ### Professional
 - 🌱 [Masakali Retreat](https://www.masakaliretreat.com)
 
-### Personal
-- 🎧 [Music Minion](https://www.musicminion.app)
-
 ## Contact 
 
 If you have any questions or would like to get in touch, feel free to reach out to me via [andrewskevin92@gmail.com](mailto:andrewskevin92@gmail.com), or connect with me on [LinkedIn](https://www.linkedin.com/in/andrewskevin92/).
